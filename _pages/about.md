@@ -32,6 +32,7 @@ redirect_from:
 > ⚠️ **特别提醒**：<span style="color:red">课题组欢迎真正热爱科研、喜欢探索、乐于挑战、想学知识的同学加入。如果你只是单纯想通过读研获得学位上的提升，建议谨慎考虑，否则在这个过程中我们双方都会很难受。</span>
 
 # 🔥 News
+- <span style="color:red">[2025.06]</span> &nbsp;🎉 One paper is accepted by **ICCV 2025**!
 - <span style="color:red">[2025.06]</span> &nbsp;🎉 One paper is accepted by **USENIX Security 2025**!
 - <span style="color:red">[2025.02]</span> &nbsp;🎉 One survey is accepted by **计算机研究与发展**!
 - <span style="color:red">[2024.12]</span> &nbsp;🎉 One paper is accepted by **CCS 2024**!
@@ -50,6 +51,11 @@ Top-tier Conferences and Journal articles <a href='https://scholar.google.com/ci
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Sec)*, August, 2025.  (<span style="color:red">CCF-A</span>)   
   [[Paper]()]
   [[DOI]()]
+- `ICCV'25` **KOEnsAttack: Towards Efficient Data-Free Black-Box Adversarial Attacks via Knowledge-Orthogonalized Substitute Ensembles**.  
+  Chaoyong Yang, Jia-Li Yin, Bin Chen, Zhaozhe Hu, <span style="color:blue">Xiaolei Liu</span>, and Wei Lin.      
+  In *Proceedings of the 2025 International Conference on Computer Vision (ICCV)*, October, 2025.  (<span style="color:red">CCF-A</span>)   
+  [[Paper]()]
+  [[DOI]()]
 - `CCS'24` **SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems**.   
   Oubo Ma, Yuwen Pu, Linkang Du, Yang Dai, Ruo Wang, <span style="color:blue">Xiaolei Liu</span>, Yingcai Wu, and Shouling Ji.   
   In *Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security (CCS)*, December, 2024. (<span style="color:red">CCF-A</span>)   
@@ -65,22 +71,22 @@ Top-tier Conferences and Journal articles <a href='https://scholar.google.com/ci
   [[DOI](https://dl.acm.org/doi/10.1145/3691620.3695057)]
 - `ICASSP'23` **Sparse Black-Box Inversion Attack with Limited Information**.  
   Yixiao Xu, <span style="color:blue">Xiaolei Liu</span>, Teng Hu, Bangzhou Xin, and Run Yang.  
-  In *Proceedings 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, June, 2023.  (<span style="color:red">CCF-B</span>)   
+  In *Proceedings of the 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, June, 2023.  (<span style="color:red">CCF-B</span>)   
   [[Paper](https://cubernet.github.io/publications/ICASSP23/ICASSP23-Paper.pdf)]
   [[DOI](https://doi.org/10.1109/ICASSP49357.2023.10095514)]
 - `ICME'22` **Targeted Anonymization: A Face Image Anonymization Method for Unauthorized Models**.  
   Kangyi Ding, Teng Hu, <span style="color:blue">Xiaolei Liu</span>, Weina Niu, Yanping Wang, and Xiaosong Zhang.  
-  In *Proceedings 2022 IEEE International Conference on Multimedia and Expo (ICME)*, August, 2022.  (<span style="color:red">CCF-B</span>)   
+  In *Proceedings of the 2022 IEEE International Conference on Multimedia and Expo (ICME)*, August, 2022.  (<span style="color:red">CCF-B</span>)   
   [[Paper](https://cubernet.github.io/publications/ICME22/ICME22-Paper.pdf)]
   [[DOI](https://doi.org/10.1109/ICME52920.2022.9859898)] 
 - `ICASSP'22` **Sparse Adversarial Attack For Video Via Gradient-Based Keyframe Selection**.  
   Yixiao Xu, <span style="color:blue">Xiaolei Liu</span>, Mingyong Yin, Teng Hu, and Kangyi Ding.  
-  In *Proceedings 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, May, 2022.  (<span style="color:red">CCF-B</span>)   
+  In *Proceedings of the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, May, 2022.  (<span style="color:red">CCF-B</span>)   
   [[Paper](https://cubernet.github.io/publications/ICASSP22/ICASSP22-Paper.pdf)]
   [[DOI](https://doi.org/10.1109/ICASSP43922.2022.9747698)]     
 - `AAAI'20` **Weighted-sampling audio adversarial example attack**.  
   <span style="color:blue">Xiaolei Liu</span>, Kun Wan, Yufei Ding, Xiaosong Zhang, and Qingxin Zhu.  
-  In *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, February, 2020.  (<span style="color:red">CCF-A</span>)   
+  In *Proceedings of the 2020 AAAI Conference on Artificial Intelligence (AAAI)*, February, 2020.  (<span style="color:red">CCF-A</span>)   
   [[Paper](https://cubernet.github.io/publications/AAAI20/AAAI20-Paper.pdf)]
   [[Website](https://sites.google.com/view/audio-adversarial-examples/)]
   [[DOI](https://doi.org/10.1609/aaai.v34i04.5928)]
