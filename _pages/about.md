@@ -18,7 +18,7 @@ redirect_from:
 
 **Research**: I am currently an associate research fellow in Chinese Academy of Engineering Physics (CAEP). My goal is to build trustworthy AI models and software in strong adversarial environments. My current work broadly involves research on attack and defense for AI algorithms, explainable AI (XAI), LLM security, data-driven software security, etc.
 
-**Previously**: I got my Ph.D degree from University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)) advised by Prof. [Xiaosong Zhang](https://sise.uestc.edu.cn/info/1035/13033.htm) and Prof. Qingxin Zhu. I was a visiting scholar at UC Santa Barbara, where I worked with [Yufei Ding](https://scholar.google.com/citations?user=MiPxo9UAAAAJ).
+**Previously**: I got my Ph.D degree from University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)) advised by Prof. [Xiaosong Zhang](https://sise.uestc.edu.cn/info/1035/13033.htm) and Prof. Qingxin Zhu. I was a visiting scholar at UC Santa Barbara, where I worked with Prof. [Yufei Ding](https://scholar.google.com/citations?user=MiPxo9UAAAAJ).
 
 **Openings**: My research team has multiple openings for <span style="color:blue">Research Assistants, Software Engineers, Research Interns, Postdoc and Ph.D./Master</span>, please drop me an email or visit the website of [CAEP graduate school](https://zsxx.gscaep.ac.cn/list/13) for more information.
 
