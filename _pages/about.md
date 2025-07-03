@@ -20,7 +20,7 @@ redirect_from:
 
 **Previously**: I got my Ph.D degree from University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)) advised by Prof. [Xiaosong Zhang](https://sise.uestc.edu.cn/info/1035/13033.htm) and Prof. Qingxin Zhu. I was a visiting scholar at UC Santa Barbara, where I worked with Prof. [Yufei Ding](https://scholar.google.com/citations?user=MiPxo9UAAAAJ).
 
-**Openings**: My research team has multiple openings for <span style="color:blue">Research Assistants, Software Engineers, Research Interns, Postdoc and Ph.D./Master</span>, please drop me an email or visit the website of [CAEP graduate school](https://zsxx.gscaep.ac.cn/list/13) for more information.
+**Openings**: My research team has multiple openings for <span style="color:blue">Research Assistants, Software Engineers, Research Interns, Postdoc and Ph.D./Master</span>, please [drop me an email(caeplxl [at] 126 dot com) for more information.
 
 > 📌 **非常欢迎考虑报考我的研究生**！在给我写邮件之前，请您先仔细阅读下面的文字，并确认我们在科研观念、兴趣上一致:
 > 
