@@ -20,12 +20,27 @@ redirect_from:
 
 **Previously**:I received my Ph.D. in Computer Science and Technology from Nanjing University in April 2020, advised by [Advisor’s Name, if you’d like to include]. During my Ph.D., I visited the University of New South Wales (QS World Rank 19) as part of a joint doctoral program funded by the China Scholarship Council. From September 2020 to November 2022, I was a research assistant at the School of Computer Science, Peking University. I have also participated in several collaborative projects with Huawei Technologies and Baidu Foundation, with some research results translated into real-world applications at Huawei.
 
-> 📌 **We welcome undergraduate/graduate students, post-docs, research assistants and visiting interns/scholars. Please drop me an email if you are interested in our group**.
-> 
-> 💡 **研究方向**：我的研究聚焦于人工智能技术，人机交互和智能感知方面。  
-> ✨ **招生期望**：目前招收计算机/人工智能/软件方向博士/硕士/本科生，欢迎有较好的编程功底，对人工智能、智能感知有浓厚兴趣的同学报考咨询 (Ps: 特别欢迎致力于一作发表CCF A类顶会顶刊的本科生进组科研)。
-> 🎯 **联系方式**：联系邮箱：wanglei@suda.edu.cn，微信号：shuishanglei。邮件主题请注明“年份 + 申请类型（例如：2025年硕士/博士申请）+ 学校 + 姓名”，正文请附上简历、本科三年成绩单、排名及所获荣誉（照片或扫描件均可）、其他能证明科研学习能力的材料（如发表学术论文或参加竞赛等）。如有兴趣，请联系我，并将上述材料发送至邮箱沟通！
-> 🤝 **团队优势**： 本团队主要从事与业界联系紧密的方向研究，比如智能家居、工业互联网，对于直接就业和有志于科研的学生都有很好的培养环境。本团队长期与南京大学、北京大学、南洋理工大学、密西根大学等国内外顶尖团队保持深度合作。我们将积极资助并推荐学生参加海内外学术交流和赴海内外知名高校访问、深造。
+- 📌 **We welcome undergraduate/graduate students, post-docs, research assistants and visiting interns/scholars.**  
+  Please drop me an email if you are interested in our group.
+
+- 💡 **研究方向**：  
+  我的研究聚焦于人工智能技术，人机交互和智能感知方面。
+
+- ✨ **招生期望**：  
+  目前招收计算机/人工智能/软件方向博士/硕士/本科生，欢迎有较好的编程功底，对人工智能、智能感知有浓厚兴趣的同学报考咨询。  
+  *(Ps: 特别欢迎致力于一作发表 CCF A 类顶会顶刊的本科生进组科研)*。
+
+- 🤝 **团队优势**：  
+  本团队主要从事与业界联系紧密的方向研究，比如智能家居、工业互联网，对于直接就业和有志于科研的学生都有很好的培养环境。  
+  本团队长期与南京大学、北京大学、南洋理工大学、密西根大学等国内外顶尖团队保持深度合作。  
+  我们将积极资助并推荐学生参加海内外学术交流和赴海内外知名高校访问、深造。
+
+- 🎯 **联系方式**：  
+  联系邮箱：wanglei@suda.edu.cn  
+  微信号：shuishanglei  
+  邮件主题请注明：`年份 + 申请类型（例如：2025年硕士/博士申请）+ 学校 + 姓名`  
+  正文请附上：简历、本科三年成绩单、排名及所获荣誉（照片或扫描件均可）、其他能证明科研学习能力的材料（如发表学术论文或参加竞赛等）。  
+  如有兴趣，请联系我，并将上述材料发送至邮箱沟通！
 
 #  Research Projects 
 - National Natural Science Foundation of China Youth Program, 2022.01-2024.12, 300,000 Yuan, Project No.: 62102006, Chair 
@@ -57,6 +72,7 @@ redirect_from:
 - <span style="color:red">[2018]</span> 🏆 National Scholarship for Studying Abroad,China Scholarship Council
 
 # 👨‍💻 Teaching
--Algorithm Design and Analysis, Data Science and Big Data Technology (undergraduate), 72 hours 
--JAVA Programming, Artificial Intelligence (undergraduate), 54 hours 
--Introduction to Smart IoT, Computer Science and Technology/Artificial Intelligence (graduate), 36 hours
+
+- Algorithm Design and Analysis, Data Science and Big Data Technology (undergraduate), 72 hours
+- JAVA Programming, Artificial Intelligence (undergraduate), 54 hours
+- Introduction to Smart IoT, Computer Science and Technology/Artificial Intelligence (graduate), 36 hours
