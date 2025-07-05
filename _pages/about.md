@@ -20,7 +20,7 @@ redirect_from:
 
 **Previously**: I got my Ph.D degree from University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)) advised by Prof. [Xiaosong Zhang](https://sise.uestc.edu.cn/info/1035/13033.htm) and Prof. Qingxin Zhu. I was a visiting scholar at UC Santa Barbara, where I worked with Prof. [Yufei Ding](https://scholar.google.com/citations?user=MiPxo9UAAAAJ).
 
-**Openings**: My research team has multiple openings for <span style="color:blue">Research Assistants, Software Engineers, Research Interns, Postdoc and Ph.D./Master</span>, please [drop me an email(caeplxl [at] 126 dot com) for more information.
+**Openings**: My research team has multiple openings for <span style="color:blue">Research Assistants, Software Engineers, Research Interns, Postdoc and Ph.D./Master</span>, please drop me an email (caeplxl [at] 126 dot com) for more information.
 
 > 📌 **非常欢迎考虑报考我的研究生**！在给我写邮件之前，请您先仔细阅读下面的文字，并确认我们在科研观念、兴趣上一致:
 > 
@@ -32,6 +32,7 @@ redirect_from:
 > ⚠️ **特别提醒**：<span style="color:red">课题组欢迎真正热爱科研、喜欢探索、乐于挑战、想学知识的同学加入。如果你只是单纯想通过读研获得学位上的提升，建议谨慎考虑，否则在这个过程中我们双方都会很难受。</span>
 
 # 🔥 News
+- <span style="color:red">[2025.07]</span> &nbsp;🎉 One paper is accepted by **ACMMM 2025**!
 - <span style="color:red">[2025.06]</span> &nbsp;🎉 One paper is accepted by **ICCV 2025**!
 - <span style="color:red">[2025.06]</span> &nbsp;🎉 One paper is accepted by **USENIX Security 2025**!
 - <span style="color:red">[2025.02]</span> &nbsp;🎉 One survey is accepted by **计算机研究与发展**!
