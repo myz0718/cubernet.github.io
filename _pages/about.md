@@ -20,6 +20,8 @@ redirect_from:
 
 **Previously**:I received my Ph.D. in Computer Science and Technology from Nanjing University in April 2020, advised by [Advisor’s Name, if you’d like to include]. During my Ph.D., I visited the University of New South Wales (QS World Rank 19) as part of a joint doctoral program funded by the China Scholarship Council. From September 2020 to November 2022, I was a research assistant at the School of Computer Science, Peking University. I have also participated in several collaborative projects with Huawei Technologies and Baidu Foundation, with some research results translated into real-world applications at Huawei.
 
+<div class="recruit-box">
+
 - 📌 **We welcome undergraduate/graduate students, post-docs, research assistants and visiting interns/scholars.**  
   Please drop me an email if you are interested in our group.
 
@@ -41,6 +43,8 @@ redirect_from:
   邮件主题请注明：`年份 + 申请类型（例如：2025年硕士/博士申请）+ 学校 + 姓名`  
   正文请附上：简历、本科三年成绩单、排名及所获荣誉（照片或扫描件均可）、其他能证明科研学习能力的材料（如发表学术论文或参加竞赛等）。  
   如有兴趣，请联系我，并将上述材料发送至邮箱沟通！
+
+</div>
 
 #  Research Projects 
 - National Natural Science Foundation of China Youth Program, 2022.01-2024.12, 300,000 Yuan, Project No.: 62102006, Chair 
