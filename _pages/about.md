@@ -19,7 +19,6 @@ redirect_from:
 **Research**:I am currently a Young Distinguished Professor at Soochow University. My research interests broadly include artificial intelligence, human-computer interaction, and intelligent perception. Specifically, I focus on pervasive computing, trustworthy AI, and intelligent sensing systems. I have published more than 20 papers, including 14 as the first or corresponding author, in top conferences and journals such as MobiSys, UbiComp, and IEEE TMC. I also serve as an Associate Editor for UbiComp/IMWUT, and as TPC member or session chair for conferences such as ICDCS, COCOON, ICA3PP, and WASA. I am also an active reviewer for top-tier journals and conferences, including ACM CHI, IEEE TWC, and ACM TOSN.
 
 **Previously**:I received my Ph.D. in Computer Science and Technology from Nanjing University in April 2020, advised by [Advisor’s Name, if you’d like to include]. During my Ph.D., I visited the University of New South Wales (QS World Rank 19) as part of a joint doctoral program funded by the China Scholarship Council. From September 2020 to November 2022, I was a research assistant at the School of Computer Science, Peking University. I have also participated in several collaborative projects with Huawei Technologies and Baidu Foundation, with some research results translated into real-world applications at Huawei.
-
 > - 📌 **We welcome undergraduate/graduate students, post-docs, research assistants and visiting interns/scholars.**  
 >   Please drop me an email if you are interested in our group.
 > 
