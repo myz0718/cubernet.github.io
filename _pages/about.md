@@ -20,7 +20,7 @@ redirect_from:
 
 **Previously**:I received my Ph.D. in Computer Science and Technology from Nanjing University in April 2020, advised by [Advisor’s Name, if you’d like to include]. During my Ph.D., I visited the University of New South Wales (QS World Rank 19) as part of a joint doctoral program funded by the China Scholarship Council. From September 2020 to November 2022, I was a research assistant at the School of Computer Science, Peking University. I have also participated in several collaborative projects with Huawei Technologies and Baidu Foundation, with some research results translated into real-world applications at Huawei.
 
-> 📌 **We welcome undergraduate/graduate students, post-docs, research assistants and visiting interns/scholars. Please drop me an email if you are interested in our group.**
+> 📌 **We welcome undergraduate/graduate students, post-docs, research assistants and visiting interns/scholars. Please drop me an email if you are interested in our group**.
 > 
 > 💡 **研究方向**：我的研究聚焦于人工智能技术，人机交互和智能感知方面。  
 > ✨ **招生期望**：目前招收计算机/人工智能/软件方向博士/硕士/本科生，欢迎有较好的编程功底，对人工智能、智能感知有浓厚兴趣的同学报考咨询 (Ps: 特别欢迎致力于一作发表CCF A类顶会顶刊的本科生进组科研)。
@@ -36,36 +36,16 @@ redirect_from:
 -  National Natural Science Foundation of China Top-level Project, 2025.01-2028.12, RMB 500,000,000, Project No.: 62472299, Chair
 
 # 📝 Representative Papers (10).
--<span style="color:blue">Lei Wang</span>, Tao Gu, Jingyu Li, Haipeng Dai, Chenren Xu, Daqing Zhang. Acoustic Sensing for Multi-User Heartbeat Monitoring Using Dualforming. IEEE TMC 2025,(<span style="color:red">CCF-A, 中科院1区TOP期刊</span>)   
-  [[Paper]()]
-  [[DOI]()]
-- <span style="color:blue">Lei Wang</span>, Xingwei Wang, Yu Zhang, Xiaolei Ma, Haipeng Dai, Yong Zhang, Zhijun Li, Tao Gu. Accurate Blood Pressure Measurement Using Smartphone's Built-in Accelerometer. ACM UbiComp 2024,(<span style="color:red">CCF-A,TOP会议</span>)   
-  [[Paper]()]
-  [[DOI]()]
--  <span style="color:blue">Lei Wang</span>, Xingwei Wang, Dalin Zhang, Xiaolei Ma, Yong Zhang, Haipeng Dai, Chenren Xu, Zhijun Li, Tao Gu. Knowing Your Heart Condition Anytime: User-Independent ECG Measurement using Commercial Mobile Phones. ACM UbiComp 2023, (<span style="color:red">CCF-A,TOP会议</span>)   
-  [[Paper](https://cubernet.github.io/publications/CCS24/CCS24-Paper.pdf)]
-  [[Slides](https://cubernet.github.io/publications/CCS24/CCS24-Slides.pdf)]
-  [[DOI](https://doi.org/10.1145/3658644.3670293)]
-- <span style="color:blue">Lei Wang</span>, Tao Gu, Wei Li, Yong Zhang, Haipeng Dai, Chenren Xu, Daqing Zhang. DFSense: Multi-user Acoustic Sensing for Heartbeat Monitoring with Dualforming. ACM MobiSys 2023,(<span style="color:red">CCF-B/清华-A, 移动计算TOP2会议</span>)   
-  [[Paper](https://cubernet.github.io/publications/ASE24/ASE24-Papera.pdf)]
-  [[Video](https://youtu.be/d8clWq9JC0Y)]
-  [[Code](https://github.com/SnopyArtifact/Snopy)]
-  [[DOI](https://dl.acm.org/doi/10.1145/3691620.3695057)]
--  <span style="color:blue">Lei Wang</span>, Haoran Wan, Ting Zhao, Ke Sun, Haipeng Dai, Shuyu Shi, Guihai Chen, Wei Wang. SCALAR: Self-Calibrated Acoustic Ranging for Distributed Mobile Devices. IEEE TMC 2023, (<span style="color:red">CCF-A, 中科院1区TOP期刊</span>)   
-  [[Paper](https://cubernet.github.io/publications/ICASSP23/ICASSP23-Paper.pdf)]
-  [[DOI](https://doi.org/10.1109/ICASSP49357.2023.10095514)]
-- <span style="color:blue">Lei Wang</span>, Wei Li, Ke Sun, Tao Gu, Chenren Xu, Daqing Zhang. LoEar: Push the Range Limit of Acoustic Sensing for Vital Sign Monitoring. ACM UbiComp 2022,(<span style="color:red"CCF-A,TOP会议</span>)   
-  [[Paper](https://cubernet.github.io/publications/ICME22/ICME22-Paper.pdf)]
-  [[DOI](https://doi.org/10.1109/ICME52920.2022.9859898)] 
-- <span style="color:blue">Lei Wang</span>, Xiang Zhang, Yuanshang Jiang, Yong Zhang, Chenren Xu, Ruiyang Gao, Daqing Zhang. Watching Your Phone’s Back: Gesture Recognition by Sensing Acoustical Structure-borne Propagation. ACM UbiComp 2021. (<span style="color:red">CCF-A,TOP会议</span>)   
-  [[Paper](https://cubernet.github.io/publications/ICASSP22/ICASSP22-Paper.pdf)]
-  [[DOI](https://doi.org/10.1109/ICASSP43922.2022.9747698)]     
+-  <span style="color:blue">Lei Wang</span>, Tao Gu, Jingyu Li, Haipeng Dai, Chenren Xu, Daqing Zhang. Acoustic Sensing for Multi-User Heartbeat Monitoring Using Dualforming. IEEE TMC 2025.(<span style="color:red">CCF-A, 中科院1区TOP期刊</span>)   
+-  <span style="color:blue">Lei Wang</span>, Xingwei Wang, Yu Zhang, Xiaolei Ma, Haipeng Dai, Yong Zhang, Zhijun Li, Tao Gu. Accurate Blood Pressure Measurement Using Smartphone's Built-in Accelerometer. ACM UbiComp 2024.(<span style="color:red">CCF-A,TOP会议</span>)   
+-  <span style="color:blue">Lei Wang</span>, Xingwei Wang, Dalin Zhang, Xiaolei Ma, Yong Zhang, Haipeng Dai, Chenren Xu, Zhijun Li, Tao Gu. Knowing Your Heart Condition Anytime: User-Independent ECG Measurement using Commercial Mobile Phones. ACM UbiComp 2023. (<span style="color:red">CCF-A,TOP会议</span>)   
+- <span style="color:blue">Lei Wang</span>, Tao Gu, Wei Li, Yong Zhang, Haipeng Dai, Chenren Xu, Daqing Zhang. DFSense: Multi-user Acoustic Sensing for Heartbeat Monitoring with Dualforming. ACM MobiSys 2023.(<span style="color:red">CCF-B/清华-A, 移动计算TOP2会议</span>)   
+-  <span style="color:blue">Lei Wang</span>, Haoran Wan, Ting Zhao, Ke Sun, Haipeng Dai, Shuyu Shi, Guihai Chen, Wei Wang. SCALAR: Self-Calibrated Acoustic Ranging for Distributed Mobile Devices. IEEE TMC 2023.(<span style="color:red">CCF-A, 中科院1区TOP期刊</span>)   
+- <span style="color:blue">Lei Wang</span>, Wei Li, Ke Sun, Tao Gu, Chenren Xu, Daqing Zhang. LoEar: Push the Range Limit of Acoustic Sensing for Vital Sign Monitoring. ACM UbiComp 2022.(<span style="color:red"CCF-A,TOP会议</span>)   
+  - <span style="color:blue">Lei Wang</span>, Xiang Zhang, Yuanshang Jiang, Yong Zhang, Chenren Xu, Ruiyang Gao, Daqing Zhang. Watching Your Phone’s Back: Gesture Recognition by Sensing Acoustical Structure-borne Propagation. ACM UbiComp 2021. (<span style="color:red">CCF-A,TOP会议</span>)      
 -  <span style="color:blue">Lei Wang</span>, Ke Sun, Haipeng Dai, Wei Wang, Kang Huang, Alex X. Liu, Qing Gu. WiTrace: Centimeter-Level Passive Gesture Tracking Using OFDM Signal. IEEE TMC 2020.  (<span style="color:red">CCF-A, 中科院1区TOP期刊</span>)   
-  [[Paper](https://cubernet.github.io/publications/AAAI20/AAAI20-Paper.pdf)]
-  [[Website](https://sites.google.com/view/audio-adversarial-examples/)]
-  [[DOI](https://doi.org/10.1609/aaai.v34i04.5928)]
--  <span style="color:blue">Lei Wang</span>, Kang Huang, Ke Sun, Wei Wang, Chen Tian, Lei Xie,  Qing Gu. Unlock With Your Heart: Heartbeat-based Authentication on Commercial Mobile Phones. ACM UbiComp 2018. (<span style="color:red">CCF-A,TOP会议</span>)   
-- Haoran Wan, <span style="color:blue">Lei Wang</span>, Ting Zhao, Ke Sun, Haipeng Dai, Shuyu Shi, Guihai Chen, Wei Wang. VECTOR: Velocity Based Temperature-field Monitoring with Distributed Devices. ACM UbiComp 2022. (<span style="color:red">CCF-A,TOP会议</span>) Distinguised Paper Award (8篇/210篇接收论文)
+ -  <span style="color:blue">Lei Wang</span>, Kang Huang, Ke Sun, Wei Wang, Chen Tian, Lei Xie,  Qing Gu. Unlock With Your Heart: Heartbeat-based Authentication on Commercial Mobile Phones. ACM UbiComp 2018. (<span style="color:red">CCF-A,TOP会议</span>)   
+-  Haoran Wan, <span style="color:blue">Lei Wang</span>, Ting Zhao, Ke Sun, Haipeng Dai, Shuyu Shi, Guihai Chen, Wei Wang. VECTOR: Velocity Based Temperature-field Monitoring with Distributed Devices. ACM UbiComp 2022. (<span style="color:red">CCF-A,TOP会议</span>) Distinguised Paper Award (8篇/210篇接收论文)
 
 # 🎖 Honors and Awards
 - <span style="color:red">[2024]</span> 🏆 First Prize of Science and Technology Award of Jiangsu Provincial Computer Society
